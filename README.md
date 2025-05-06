@@ -26,7 +26,7 @@ npm install --save-dev @biomejs/biome biome-standard-mate
 ```jsonc
 {
   "$schema": "https://biomejs.dev/schemas/2.0.0-beta.2/schema.json",
-  "extends": ["biome-standard-mate/biome"],
+  "extends": ["biome-standard-mate/biome"]
 }
 ```
 
