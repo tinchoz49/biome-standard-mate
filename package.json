@@ -7,7 +7,10 @@
     "migrate": "biome migrate eslint --write --include-inspired",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "biome",
+    "standard"
+  ],
   "author": "Martin Acosta",
   "license": "ISC",
   "description": "Biome configuration based on neostandard",
