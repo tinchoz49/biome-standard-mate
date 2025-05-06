@@ -1,0 +1,19 @@
+{
+  "name": "biome-standard-mate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "migrate": "biome migrate eslint --write --include-inspired",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Martin Acosta",
+  "license": "ISC",
+  "description": "Biome configuration based on neostandard",
+  "devDependencies": {
+    "@biomejs/biome": "^2.0.0-beta.2",
+    "eslint": "^9.26.0",
+    "neostandard": "^0.12.1"
+  }
+}
